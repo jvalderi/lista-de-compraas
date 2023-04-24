@@ -1,0 +1,6 @@
+cabeçalho-titulo{
+    display: flex;
+    justify-content: center;
+    font-family: 'inter', sans-serif;
+    font-weight: 700;
+}
