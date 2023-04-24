@@ -7,5 +7,7 @@
 }
 
 .cabeçalho-imagem{
-
+    display: block;
+    margin: auto;
+    height: 220px;
 }
