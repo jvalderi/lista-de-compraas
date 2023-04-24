@@ -16,6 +16,7 @@
     font-family: 'inter', sans-serif;
     color: #273DFF;
     margin: 20x;
+    font-size: 32px;
 }
 
 .produtos-de-limpeza-titulo{
@@ -23,6 +24,9 @@
     font-size: 48px;
 }
 
-.produtos-de-limpeza-dertegente{
-    
+.produtos-de-higiene-pessoal {
+    font-family: 'inter', sans-serif;
+    color: #E73434;
+    margin: 20x;
+    font-size: 32px;
 }
