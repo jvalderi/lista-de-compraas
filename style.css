@@ -19,7 +19,7 @@
     font-size: 32px;
 }
 
-.produtos-de-limpeza-titulo{
+.produtos-titulo{
     font-family: 'inter', sans-serif;
     font-size: 48px;
 }
@@ -34,6 +34,98 @@
 .produtos-de-açougue{
     font-family: 'inter', sans-serif;
     color: #F119F5;
+    margin: 20x;
+    font-size: 32px;
+}
+
+.produtos-de-feira{
+    font-family: 'inter', sans-serif;
+    color: #BECD12;
+    margin: 20x;.cabeçalho-titulo{
+2
+    display: flex;
+3
+    justify-content: center;
+4
+    font-family: 'inter', sans-serif;
+5
+    font-weight: 700;
+6
+    font-size: 64px;
+7
+}
+8
+​
+9
+.cabeçalho-imagem{
+10
+    display: block;
+11
+    margin: auto;
+12
+    height: 220px;
+13
+}
+14
+​
+15
+.produtos-de-limpeza{
+16
+    font-family: 'inter', sans-serif;
+17
+    color: #273DFF;
+18
+    margin: 20x;
+19
+    font-size: 32px;
+20
+}
+21
+​
+22
+.produtos-de-limpeza-titulo{
+23
+    font-family: 'inter', sans-serif;
+24
+    font-size: 48px;
+25
+}
+26
+​
+27
+.produtos-de-higiene-pessoal {
+28
+    font-family: 'inter', sans-serif;
+29
+    color: #E73434;
+30
+    margin: 20x;
+31
+    font-size: 32px;
+32
+}
+33
+​
+34
+.produtos-de-açougue{
+35
+    font-family: 'inter', sans-serif;
+36
+    color: #F119F5;
+37
+    margin: 20x;
+38
+    font-size: 32px;
+39
+}
+40
+
+    font-size: 32px;
+}
+
+.produtos-de-mercearia{
+    font-family: 'inter', sans-serif;
+    color: #DC7516;
     margin: 20x;
     font-size: 32px;
 }
